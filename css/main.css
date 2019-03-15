@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden
+{
+	display: none;
+}
+
+h1, h2, h3, p {
+	color: black;
+}
+
+body {
+	background-color: darkgrey;
+}
+
+.header {
+	font-size: 55px;
+	font-family: Ariel, Helvetica, 'sans-serif';
+	margin-top: 40px;
+	text-align: center;
+}
+
+.logan {
+	margin-top: 64px;
+	margin-left: 50px;
+	width: 20%;
+	height: 20%;
+}
+
+#logContent {
+	display: flex;
+	flex-direction: row;
+}
+
+#logInfo {
+	display: flex;
+	flex-direction: column;
+}
+
+.loganText {
+	font-size: 22px;
+	font-family: Ariel, Helvetica, "sans-serif";
+	padding-top: 50px;
+	margin:0 auto;
+	padding-bottom: 20px;
+	width: 75%;
+}
+
+.keiranText {
+	font-size: 22px;
+	font-family: Ariel, Helvetica, "sans-serif";
+	margin-top: 50px;
+	width: 75%;
+	margin: 0 auto;
+}
+
+.keiran {
+	width: 25%;
+	height: 25%;
+	margin-top: 65px;
+	margin-right: 50px;
+}
