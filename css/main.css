@@ -51,8 +51,8 @@ div.container {
     position: relative;
 }
 
-div.container>div.prev,
-div.container>div.next {
+.prev, .next 
+{
     position: absolute;
     z-index: 2;
     top: 0;
@@ -62,12 +62,14 @@ div.container>div.next {
     cursor: pointer;
 }
 
-div.container>div.prev {
+.prev 
+{
     left: 0;
 	background-color: grey;
 }
 
-div.container>div.prev>.arrow-left {
+.arrow-left 
+{
     height: 20px;
     width: 20px;
     border-top: 2px solid #000;
@@ -82,12 +84,14 @@ div.container>div.prev>.arrow-left {
     transform: translate(-20%, -50%) rotate(225deg);
 }
 
-div.container>div.next {
+.next 
+{
     right: 0;
 	background-color: grey;
 }
 
-div.container>div.next>.arrow-right {
+.arrow-right 
+{
     height: 20px;
     width: 20px;
     border-top: 2px solid #000;

@@ -13,7 +13,7 @@
 		{
 			image: 'images/keiran_hollenbeck.jpg',
 			name: 'Keiran',
-			bio: 'My name is Keiran Hollenbeck, I am 19 and I’m currently enrolling Fanshawe college for Interactive Media Design. I do Photography and hiking as a hobby, sometimes I do both at once to do some traveling photos. On my spare time, I like to play videogames and watch a lot of movies. I’ve been interested in taking Front End Developing and hope to make a full time career out of it.'
+			bio: 'My name is Keiran Hollenbeck, I am 19 and I’m currently enrolling Fanshawe college for Interactive Media Design. I do Photography and hiking as a hobby, sometimes I do both at once to do some traveling photos. On my spare time, I like to play videogames, hangout with my brothers if they are free, and watch a lot of movies. I am also the youngest sibling out of 8. I’ve been interested in taking Front End Developing and hope to make a full time career out of it.'
 		},
 
 	];
